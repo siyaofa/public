@@ -1,7 +1,19 @@
 {
-    "sites": [
-    { "name":"菜鸟教程" , "url":"www.runoob.com" }, 
-    { "name":"google" , "url":"www.google.com" }, 
-    { "name":"微博" , "url":"www.weibo.com" }
+    "news": [
+        {
+            "good": true,
+            "id": 0,
+            "url": "https:\\cn.bing.com"
+        },
+        {
+            "good": true,
+            "id": 1,
+            "url": "https:\\siyaofa.com"
+        },
+        {
+            "good": true,
+            "id": 4,
+            "url": "https:\\www.baidu.com"
+        }
     ]
 }
