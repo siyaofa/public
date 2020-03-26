@@ -1,16 +1,19 @@
 {
     "news": [
         {
+            "title":"video",
             "good": true,
             "id": 0,
-            "url": "https://cn.bing.com"
+            "url": "video/test.mp4"
         },
         {
+            "title":"home page",
             "good": true,
             "id": 1,
             "url": "http://siyaofa.com"
         },
         {
+            "title":"baidu",
             "good": true,
             "id": 4,
             "url": "https://www.baidu.com"
